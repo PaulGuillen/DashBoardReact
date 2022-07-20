@@ -18,28 +18,28 @@ const Featured = () => {
               strokeWidth={5}/>
             </div>
             <p className="title">Total ventas de hoy</p>
-            <p className="amount">S/420</p>
+            <p className="amount">S/220</p>
             <p className="desc">Previas transacciones no estaran incluidas</p>
             <div className="summary">
               <div className="item">
                 <div className="itemTitle">Objetivo</div>
                 <div className="itemResult positive">
-                  <KeyboardArrowDownIcon fontSize="small"/>
-                  <div className="resultAmount">S/12.4</div>
+                  <KeyboardArrowUpOutlinedIcon fontSize="small"/>
+                  <div className="resultAmount">S/1500</div>
                 </div>
               </div>
               <div className="item">
-                <div className="itemTitle">Objetivo</div>
+                <div className="itemTitle">U. Semana</div>
                 <div className="itemResult negative">
                   <KeyboardArrowDownIcon fontSize="small"/>
-                  <div className="resultAmount">S/12.4</div>
+                  <div className="resultAmount">S/250</div>
                 </div>
               </div>
               <div className="item">
-                <div className="itemTitle">Objetivo</div>
+                <div className="itemTitle">U. Mes</div>
                 <div className="itemResult positive">
-                  <KeyboardArrowDownIcon fontSize="small"/>
-                  <div className="resultAmount">S/12.4</div>
+                  <KeyboardArrowUpOutlinedIcon fontSize="small"/>
+                  <div className="resultAmount">S/800</div>
                 </div>
               </div>
             </div>

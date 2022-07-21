@@ -36,7 +36,7 @@ const List = () => {
       customer: "Maria Zapata",
       date: "12 Febrero",
       amount: 95,
-      method: "Pago Online",
+      method: "Contra Entrega",
       status: "Pendiente",
     },
     {

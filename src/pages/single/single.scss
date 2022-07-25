@@ -12,7 +12,7 @@
             gap: 20px;
 
             .left{
-                flex: 1;
+                flex: 0.7;
                 box-shadow: 2px 4px 10px 1px rgba(201,201,201,0.47);
                 -webkit-box-shadow: 2px 4px 10px 1px rgba(0,0,0,0.32);
                 padding: 20px;
@@ -40,6 +40,32 @@
                         border-radius: 50%;
                         object-fit: cover;
                     }
+
+                    .details{
+
+                        .itemTitle{
+                            margin-bottom: 10px;
+                            color: #555;
+                        }
+
+                        .detailItem{
+                            margin-bottom: 10px;
+                            font-size: 14px;
+
+                            .itemKey{
+                                font-weight: bold;
+                                color: gray;
+                                margin-right: 5px;
+                        
+                            }
+
+                            .itemValue{
+                                font-weight: 300;
+                            }
+
+                        }
+
+                    }
                 }
             }
 
@@ -48,5 +74,11 @@
             }
         }
     
+    }
+
+    .title{
+        font-size: 16px;
+        color: lightgray;
+        margin-bottom: 20px;
     }
 }

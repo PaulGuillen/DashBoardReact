@@ -53,7 +53,7 @@ export const userRows = [
     id: 3,
     username: "Arnold",
     img: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg",
-    status: "Inactivo",
+    status: "Pendiente",
     email: "snow@gmail.com",
     age: 17,
   },
@@ -78,7 +78,42 @@ export const userRows = [
 
   {
     id: 6,
-    username: "Snow",
+    username: "DePolo",
+    img: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg",
+    status: "Pendiente",
+    email: "snow@gmail.com",
+    age: 15,
+  },
+
+  {
+    id: 7,
+    username: "Pedro",
+    img: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg",
+    status: "Inactivo",
+    email: "snow@gmail.com",
+    age: 15,
+  },
+
+  {
+    id: 8,
+    username: "Carro",
+    img: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg",
+    status: "Activo",
+    email: "snow@gmail.com",
+    age: 15,
+  },
+
+  {
+    id: 9,
+    username: "Jorge",
+    img: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg",
+    status: "Pendiente",
+    email: "snow@gmail.com",
+    age: 15,
+  },
+  {
+    id: 10,
+    username: "Marco",
     img: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg",
     status: "Inactivo",
     email: "snow@gmail.com",

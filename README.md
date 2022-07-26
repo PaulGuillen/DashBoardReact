@@ -11,6 +11,7 @@ http://localhost:3000  (Main view)
 http://localhost:3000/users (Main users)
 http://localhost:3000/users/1231212 (Random user)
 ```
+---
 
 ## Ejecutando los diseños ⚙️
 

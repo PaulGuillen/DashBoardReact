@@ -1,6 +1,6 @@
 # Dashboard
 
-_Un diseño básico en react native._
+_Un diseño básico hecho en react native usnado jsx y scss._
 
 ## Comenzando 🚀
 

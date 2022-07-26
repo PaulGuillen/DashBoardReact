@@ -1,10 +1,10 @@
 # Dashboard
 
-_Dashboard admin panel in react native._
+_Un diseño básico en react native._
 
 ## Comenzando 🚀
 
-_Urls ->_
+_Las urls si desean clonar el repositorio, aparte de usar el "npm start"_
 
 ```
 http://localhost:3000  (Main view)

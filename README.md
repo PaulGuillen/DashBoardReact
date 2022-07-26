@@ -22,6 +22,8 @@ http://localhost:3000/users/1231212 (Random user)
 
 </p>
 
+---
+
 ## Autor ✒️
 
 _**Paul Guillen Acuña** - *Mi Repositorio* -[PaulGuillen](https://github.com/PaulGuillen?tab=repositories)_

@@ -1,5 +1,7 @@
 # Dashboard
 
+_En progreso_
+
 _Un diseño básico hecho en react native usnado jsx y scss._
 
 ## Comenzando 🚀
